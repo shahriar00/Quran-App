@@ -1,0 +1,9 @@
+{"theme": "Theme",
+  "language": "Language",
+  "turn_on_notification_button": "Turn On Notification",
+  "turn_on_notification": "Turn on Notification for Salat Alarm",
+  "turn_on_notification_message": "Turn on the notification to get the alarm notification on salat time. Otherwise you can not use the alert.",
+  "location_permission": "Turn on Location for Qibla",
+  "location_permission_button": "Turn On GPS/Location",
+  "location_permission_message": "Turn on location to use the qibla compass feature so you can perform your prayer in the right direction."
+}
